@@ -1,3 +1,5 @@
 # settingForMe
 <hr>
-# java
+1. java
+2. vsCode
+
