@@ -1,0 +1,31 @@
+주로 사용하는 옵션
+java, java ee, git
+1. java 
+개인 스타일
+메뉴 세팅
+window - > show view 
+* 세팅 시 메뉴가 안보일 때 -> other
+좌측 pacage Explorer, Navigator
+좌측 하단 servers
+하단 problems, console
+우측 git staging
+
+2. preferences에서 세팅
+- encoding : 기본값 UTF-8로 변경
+-> 
+1. general -> workspace -> text file encoding
+        -> editors -> text editors -> spelling -> encoding 
+2. web -> cssFiles -> cfreating files
+  -> htmlfiles -> creating files
+  -> jspfiles -> creating files
+3. xml - > xml files -> creating files 
+4. json -> json files -> creating files
+
+3. servers
+1. 서버 선택
+: 배운 것 기준 : 안정적인 버전 :apache tomcat v8.5
+최신 : apache tomcat v9.0
+취향 혹은 상황에 따라 배치하자
+
+2. 위치 설정 
+ bin 상위를 선택
