@@ -60,7 +60,13 @@ general -> content types -> java class file -> default encodeing -> "UTF-8" -> u
  2. 고급 시스템 설정 - > 환경 변수 -> path -> 추가
  3. cmd -> mvn -version 확인
  
- 
+ 6. 실행 해보기
+ 1. 우클릭 -> spring legacy project
+ -> name
+ -> spring mvc project
+ -> next
+ 2. **.**.** 작성 후 생성
+ 3. m/s 떠있음 성공
  
  
  
