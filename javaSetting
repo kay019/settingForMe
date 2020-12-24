@@ -4,3 +4,4 @@
 3. 변수이름 : JAVA_HOME / 변수 값 : 설치된 위치 jdk-까지
 4. path ->편집 -> 새로만들기 
 if java problem : 시스템 변수 -> path -> c:\programdata\oracle\java\javapath 체크
+5. cmd -> java -version 체크
