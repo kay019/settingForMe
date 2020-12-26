@@ -68,5 +68,8 @@ general -> content types -> java class file -> default encodeing -> "UTF-8" -> u
  2. **.**.** 작성 후 생성
  3. m/s 떠있음 성공
  
- 
+ 7. template 세팅
+ 생성한 프로젝트 내 루트
+ D:\spring\.metadata\.sts\content\org.springframework.templates.mvc-3.2.2
+ 안에 붙여넣기
  
